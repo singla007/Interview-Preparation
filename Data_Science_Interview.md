@@ -6,4 +6,6 @@
 [Naive Bayes Classifier](https://www.youtube.com/watch?v=O2L2Uv9pdDA) <br/>
 [Precision Recall F1_score](https://medium.com/@mahesh.chavan1997/what-is-precision-recall-f1-score-b65b1965804c) <br/>
 [Elbow method for optimal value of k in kmeans](https://www.geeksforgeeks.org/elbow-method-for-optimal-value-of-k-in-kmeans/)
+[Python OOPS concepts](https://www.pythontutorial.net/python-oop/)
+
 
