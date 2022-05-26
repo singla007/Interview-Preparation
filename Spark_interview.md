@@ -6,6 +6,6 @@
 [other resources](https://github.com/ankurchavda/SparkLearning) <br/>
 [Calculate count of Map Reduce tasks](https://cwiki.apache.org/confluence/display/HADOOP2/HowManyMapsAndReduces) <br/>
 [God of resources](https://github.com/OBenner/data-engineering-interview-questions) <br/>
-[https://www.analyticsvidhya.com/blog/2020/11/8-must-know-spark-optimization-tips-for-data-engineering-beginners/]
-[https://www.youtube.com/watch?v=LfsL4ot6iSU]
-https://phoenixnap.com/kb/rdd-vs-dataframe-vs-dataset
+[Spark Optimizations](https://www.analyticsvidhya.com/blog/2020/11/8-must-know-spark-optimization-tips-for-data-engineering-beginners/)
+[Spark Working](https://www.youtube.com/watch?v=LfsL4ot6iSU)
+[RDD, Dataframes and Dataset](https://databricks.com/blog/2016/07/14/a-tale-of-three-apache-spark-apis-rdds-dataframes-and-datasets.html)
