@@ -11,3 +11,4 @@
 [Spark Optimizations](https://www.analyticsvidhya.com/blog/2020/11/8-must-know-spark-optimization-tips-for-data-engineering-beginners/) <br/>
 [Spark Working](https://www.youtube.com/watch?v=LfsL4ot6iSU) <br/>
 [RDD, Dataframes and Dataset](https://databricks.com/blog/2016/07/14/a-tale-of-three-apache-spark-apis-rdds-dataframes-and-datasets.html) <br/>
+[Types of execution plans](https://medium.com/the-code-shelf/spark-query-plans-for-dummies-6f3733bab146) <br/>
