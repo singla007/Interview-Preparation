@@ -11,4 +11,6 @@
 [Optimizers in Deep Learning Algorithms](https://www.analyticsvidhya.com/blog/2021/10/a-comprehensive-guide-on-deep-learning-optimizers/) <br/>
 [Optimizers in Deep Learning Algorithms -2](https://medium.com/analytics-vidhya/this-blog-post-aims-at-explaining-the-behavior-of-different-algorithms-for-optimizing-gradient-46159a97a8c1) <br/>
 [Word2Vec - CBOW and Skip-gram](https://www.youtube.com/watch?v=CsgiVnW401c) <br/>
+[Word2Vec - CBOW and Skip-gram Notebook-1](https://neptune.ai/blog/word-embeddings-guide) <br/>
+[Word2Vec - CBOW and Skip-gram Notebook-2](https://www.kaggle.com/code/alincijov/nlp-starter-continuous-bag-of-words-cbow) <br/>
 
