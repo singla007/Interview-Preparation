@@ -9,5 +9,5 @@
 [Python OOPS concepts](https://www.pythontutorial.net/python-oop/) <br/>
 [Statistical Tests](https://www.youtube.com/watch?v=I10q6fjPxJ0) <br/>
 [Optimizers in Deep Learning Algorithms](https://www.analyticsvidhya.com/blog/2021/10/a-comprehensive-guide-on-deep-learning-optimizers/) <br/>
-
+[Optimizers in Deep Learning Algorithms -2](https://medium.com/analytics-vidhya/this-blog-post-aims-at-explaining-the-behavior-of-different-algorithms-for-optimizing-gradient-46159a97a8c1) <br/>
 
