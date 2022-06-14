@@ -13,4 +13,5 @@
 [Word2Vec - CBOW and Skip-gram](https://www.youtube.com/watch?v=CsgiVnW401c) <br/>
 [Word2Vec - CBOW and Skip-gram Notebook-1](https://neptune.ai/blog/word-embeddings-guide) <br/>
 [Word2Vec - CBOW and Skip-gram Notebook-2](https://www.kaggle.com/code/alincijov/nlp-starter-continuous-bag-of-words-cbow) <br/>
+[Word Embeddings](https://www.youtube.com/watch?v=mWvnlVw_LiY&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=5)  <br/>
 
