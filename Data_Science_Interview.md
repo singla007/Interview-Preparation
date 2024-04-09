@@ -16,3 +16,10 @@
 [Word Embeddings](https://www.youtube.com/watch?v=mWvnlVw_LiY&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=5)  <br/>
 [tfidf](https://www.youtube.com/watch?v=D2V1okCEsiE)
 
+
+
+
+    Recall: Measures the proportion of relevant documents that are retrieved by the system out of all relevant documents in the dataset. High recall means that the system is able to retrieve most of the relevant documents. It's calculated as: Recall=True PositivesTrue Positives+False NegativesRecall=True Positives+False NegativesTrue Positives​.
+
+    Precision: Measures the proportion of retrieved documents that are actually relevant out of all retrieved documents. High precision means that the system returns mostly relevant documents. It's calculated as: Precision=True PositivesTrue Positives+False PositivesPrecision=True Positives+False PositivesTrue Positives​.
+
