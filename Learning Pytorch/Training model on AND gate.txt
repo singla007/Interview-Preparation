@@ -1,0 +1,47 @@
+import torch
+import torch.nn as nn
+import torch.optim as optim
+
+# Define input and target data
+X = torch.tensor([[0, 0], [0, 1], [1, 0], [1, 1]], dtype=torch.float32)
+y = torch.tensor([[0], [0], [0], [1]], dtype=torch.float32)
+
+# Define a linear regression model
+class LinearRegression(nn.Module):
+    def __init__(self):
+        super(LinearRegression, self).__init__()
+        self.linear = nn.Linear(2, 1)  # Input dimension: 2, output dimension: 1
+
+    def forward(self, x):
+        return torch.sigmoid(self.linear(x))
+
+# Instantiate the model
+model = LinearRegression()
+
+# Define loss function and optimizer
+criterion = nn.BCELoss()  # Binary Cross Entropy Loss for binary classification
+optimizer = optim.SGD(model.parameters(), lr=0.1)  # Stochastic Gradient Descent optimizer
+
+# Train the model
+epochs = 1
+for epoch in range(epochs):
+    # Forward pass
+    outputs = model(X)
+    loss = criterion(outputs, y)
+
+    # Backward pass and optimization
+    optimizer.zero_grad()
+    loss.backward()
+    optimizer.step()
+
+    # Print loss every 100 epochs
+    if (epoch + 1) % 100 == 0:
+        print(f'Epoch [{epoch+1}/{epochs}], Loss: {loss.item():.4f}')
+
+# Test the model
+with torch.no_grad():
+    predicted = model(X)
+    predicted_class = predicted.round()
+    print(f'Predicted: {predicted_class.flatten().tolist()}')
+
+
